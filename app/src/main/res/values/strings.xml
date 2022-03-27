@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Shopping Crypto</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_names">Nombre</string>
+    <string name="prompt_last_name">Apellidos</string>
+    <string name="prompt_email">Correo</string>
+    <string name="prompt_email_confirm">Confirmar correo</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_login">Iniciar sesión</string>
+    <string name="action_sign_in">Registrarse</string>
+    <string name="action_sign_in_short">Iniciar</string>
+    <string name="welcome">"Bienvenido"</string>
+    <string name="invalid_username">Usuario no valido</string>
+    <string name="invalid_password">La contraseña debe ser superior a 5 caracteres</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="shopping_crypto">Shopping Crypto</string>
+</resources>
